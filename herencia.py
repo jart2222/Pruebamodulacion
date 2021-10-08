@@ -50,15 +50,3 @@ class Bicicletaelectrica(VEelectricos):
 	pass
 
 
-
-#mimoto=Moto("Honda", "CBR")
-#mimoto.caballito()
-#mimoto.estado()
-#print("----------------------------------")
-#mifurgoneta=Furgoneta("Renault", "Kangoo")
-#mifurgoneta.arrancar()
-#mifurgoneta.estado()
-#print(mifurgoneta.carga(True))
-#print("----------------------------------")
-#mibici=Bicicletaelectrica("Orbea", "HC1030")
-#mibici.estado()
